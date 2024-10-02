@@ -110,6 +110,10 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 
 ![App Demo](TrueDiagnose_DemoVideo.mp4)
 
+## Project Demo
+
+![App Demo](TrueDiagnose_DemoVideo.mp4)
+
 
 
 
