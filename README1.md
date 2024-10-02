@@ -1,7 +1,7 @@
 
 # True Diagnose: AI-Powered Medical Diagnosis Web Application
 
-![Logo](E:\health_app\Medical_Diagnosis\static\logo.png)
+![Logo]([E:\health_app\Medical_Diagnosis\static\logo.png](https://github.com/aditya-technophile-06/TrueDiagnose/blob/main/logo.png?raw=true))
 
 ## Project Overview
 
