@@ -1,7 +1,7 @@
 
 # True Diagnose: AI-Powered Medical Diagnosis Web Application
 
-![Logo](logo.png)
+![Logo](TrueDiagnose_Logo.png)
 
 ## Project Overview
 
