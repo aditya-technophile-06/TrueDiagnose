@@ -1,7 +1,5 @@
 
-# Project Title
-
-True Diagnose: AI-Powered Medical Diagnosis Web Application
+# True Diagnose: AI-Powered Medical Diagnosis Web Application
 
 ![Logo](E:\health_app\Medical_Diagnosis\static\logo.png)
 
