@@ -106,10 +106,6 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 - Machine Learning models trained using scikit-learn
 - Deep Learning models built with TensorFlow
 
-## Screenshots
-
-![App Demo](TrueDiagnose_DemoVideo.mp4)
-
 ## Project Demo Video
 
 https://github.com/user-attachments/assets/d27a21d3-fda6-4d0b-a86e-5aebe6315c8d
