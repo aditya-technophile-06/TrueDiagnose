@@ -41,13 +41,13 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 
 | Disease | Type of Model    | Accuracy   |
 | :-------- | :------- | :------------------------- |
-| `Diabetes` | `Machine Learning Model` | `98.25 % `|
-| `Breast Cancer` | `Machine Learning Model` | `98.25 % `|
-| `Heart Disease    ` | `Machine Learning Model` | `85.25 % `|
-| `Kidney Disease` | `Machine Learning Model` | `99 % `|
-| `Liver Disease` | `Machine Learning Model` | `78 % `|
-| `Malaria` | `Deep Learning Model (CNN)` | `96 % `|
-| `Pneumonia` | `Deep Learning Model (CNN)` | `95 % `|
+| Diabetes | Machine Learning Model | 98.25 % |
+| Breast Cancer | Machine Learning Model | 98.25 % |
+| Heart Disease     | Machine Learning Model | 85.25 %|
+| Kidney Disease | Machine Learning Model| 99 % |
+| Liver Disease | Machine Learning Model | 78 %|
+| Malaria | Deep Learning Model (CNN) | 96 % |
+| Pneumonia | Deep Learning Model (CNN) | 95 % |
 
 ## Directory Structure
 
