@@ -108,7 +108,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 
 ## Screenshots
 
-![App Demo](E:\health_app\Medical_Diagnosis\Screen Recording 2024-10-02 155422.mp4)
+![App Demo](TrueDiagnose_DemoVideo.mp4)
 
 
 
