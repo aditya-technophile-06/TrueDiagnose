@@ -1,5 +1,5 @@
 
-# True Diagnose: AI-Powered Medical Diagnosis Web Application
+# 🩺True Diagnose: AI-Powered Medical Diagnosis Web Application
 
 
 
@@ -7,28 +7,28 @@
 
 ---
 
-## Project Overview
+## 📖 Project Overview
 
 True Diagnose is a machine learning-powered web application designed to assist in medical diagnosis. This project leverages machine learning and deep learning models trained on large datasets to predict various diseases based on user-provided medical data. The system enables users to detect potential health issues and schedule appointments with doctors if needed. The application also offers a secure communication feature via email between patients and doctors, providing a streamlined healthcare experience.
 
 ---
 
-## Why This Project?
+## ❓Why This Project?
 
 Errors in human diagnosis are inevitable, but machine learning models can significantly improve the accuracy of medical predictions. By harnessing the power of AI, we ensure more reliable health assessments. Extensive research in allopathic, homeopathic, and ayurvedic fields led us to utilize allopathic datasets due to the availability of data. This project uses datasets sourced from Kaggle and UCI Machine Learning repositories for accurate health predictions.
 
 ---
 
-## Key Features
+## ✨Key Features
 
- - Disease Prediction: Detects and predicts the likelihood of common diseases based on uploaded medical data.
- - Appointment Scheduling: Allows users to book appointments with doctors for further consultation.
- - Patient-Doctor Communication: Provides an email-based communication system for secure interaction between patients and healthcare providers.
- - User-Friendly Interface: Designed with an intuitive and accessible UI for seamless interaction.
+ - 🩺Disease Prediction: Detects and predicts the likelihood of common diseases based on uploaded medical data.
+ - 📅Appointment Scheduling: Allows users to book appointments with doctors for further consultation.
+ - 📧Patient-Doctor Communication: Provides an email-based communication system for secure interaction between patients and healthcare providers.
+ - 🖥️User-Friendly Interface: Designed with an intuitive and accessible UI for seamless interaction.
 
 ---
 
-## Diseases Covered
+## 🦠Diseases Covered
 
     1. Diabetes
     2. Breast Cancer
@@ -39,7 +39,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
     7. Pneumonia (Deep Learning)
 ---
 
-# Technology Stack
+# 🛠️Technology Stack
 
 + Front-End: HTML, CSS, JavaScript
 + Back-End: Flask (Python)
@@ -49,7 +49,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 + Deployment: Flask for web app hosting
   
 ---
-## Model Accuracy
+## 📊 Model Accuracy
 
 | Disease | Type of Model    | Accuracy   |
 | :-------- | :------- | :------------------------- |
@@ -61,7 +61,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 | Malaria | Deep Learning Model (CNN) | 96 % |
 | Pneumonia | Deep Learning Model (CNN) | 95 % |
 ---
-## Directory Structure
+## 📁Directory Structure
 
     ├── app.py                        # Main application code
     ├── notebooks/                    # Jupyter Notebooks for training models
@@ -79,7 +79,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
     ├── runtime.txt                   # Runtime configuration
     └── requirements.txt              # Dependencies for the project
 ---
-## How to Run the Project
+## 🚀How to Run the Project
 
   Step 1: Clone the repository
   
@@ -103,7 +103,7 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
   
   Open http://127.0.0.1:5000/ in your browser to access the web application.
 ---
-## Datasets Used
+## 📊Datasets Used
 
 1. [Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 2. [Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
@@ -113,14 +113,14 @@ Errors in human diagnosis are inevitable, but machine learning models can signif
 6. [Malaria Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 7. [Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 ---
-## Technical Details
+## 🛠️ Technical Details
 
 - Python Version: 3.6.8
 - Flask Web Framework for the front and back-end
 - Machine Learning models trained using scikit-learn
 - Deep Learning models built with TensorFlow
 ---
-## Project Demo Video
+## 🎥Project Demo Video
 
 https://github.com/user-attachments/assets/d27a21d3-fda6-4d0b-a86e-5aebe6315c8d
 
