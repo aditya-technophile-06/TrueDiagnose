@@ -1,0 +1,40 @@
+{% extends 'main.html' %}
+{% block content %}
+    <div class="row" style="margin-bottom: 50px;">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            {% if pred == 1 %}
+                <div class="card card-body alert alert-danger text-center">
+                    <h4>This cell is an Infected Malarial Cell.</h4>
+                    <p>Please take the following precautions:</p>
+                    <ul class="list-unstyled">
+                        <li>- Use mosquito nets and repellents.</li>
+                        <li>- Avoid mosquito bites, especially at night.</li>
+                        <li>- Wear long-sleeved clothing and use insect repellent.</li>
+                        <li>- Keep your surroundings clean and free from stagnant water.</li>
+                    </ul>
+                    <p>Recommended treatments:</p>
+                    <ul class="list-unstyled">
+                        <li>- Visit a healthcare provider immediately.</li>
+                        <li>- Take prescribed antimalarial medication.</li>
+                        <li>- Rest and stay hydrated.</li>
+                        <li>- Follow all medical advice and complete the full course of treatment.</li>
+                    </ul>
+                </div>
+            {% else %}
+                <div class="card card-body alert alert-success text-center">
+                    <h4>This cell is not Infected.</h4>
+                    <p>You are safe.</p>
+                </div>
+            {% endif %}
+            <div class="row mt-4">
+                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                    <a href="{{ url_for('home') }}" class="btn btn-block btn-primary">Back to Home</a>
+                </div>
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+{% endblock %}
