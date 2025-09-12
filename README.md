@@ -1,5 +1,3 @@
-Perfect 👍 I’ll give you a **complete polished `README.md`** that fits your project **TrueDiagnose** (with doctor appointment + email communication features included). You can copy-paste it directly:
-
 ```markdown
 # TrueDiagnose 🩺🤖  
 
